@@ -6,7 +6,7 @@ eureka:
     service-url:
       default-zone: http://localhost:8761
   
- #database/hibernate specific perporties
+ 
 spring:
   application:
     name: COURSE-SERVICE
